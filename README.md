@@ -1,2 +1,1 @@
-Applying normative modeling with local approximate Gaussian progress regression.
-laGP package from R is used.
+Applying normative modeling with local approximate Gaussian progress regression, usinglaGP package in R.
